@@ -19,8 +19,9 @@
 ### App Walkthough GIF
 
 ##<img src="https://imgur.com/a/w8b2W5v" width=250><br>
-<img src='https://imgur.com/a/w8b2W5v' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/m6geHBY.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ### Notes
 
 Describe any challenges encountered while building the app.
