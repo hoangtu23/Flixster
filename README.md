@@ -17,9 +17,9 @@
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
-##<img src="https://imgur.com/a/w8b2W5v" width=250><br>
-<img src='https://i.imgur.com/m6geHBY.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](Flixster2.gif)
+<img src="https://i.imgur.com/m6geHBY.mp4" width=250><br>
+<img src="https://i.imgur.com/m6geHBY.mp4" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ### Notes
