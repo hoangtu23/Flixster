@@ -18,7 +18,8 @@
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/w8b2W5v" width=250><br>
+##<img src="https://imgur.com/a/w8b2W5v" width=250><br>
+<img src='https://imgur.com/a/w8b2W5v' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 
@@ -27,6 +28,7 @@ Describe any challenges encountered while building the app.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+- [Youtube API](https://developers.google.com/youtube/android/player/downloads/) - YouTube Android Player API
 
 ## License
 
